@@ -1,0 +1,138 @@
+Time :0
+Waiting clients: { ID: 4; Arrival time: 2; Service time: 5 }
+
+Waiting clients: { ID: 5; Arrival time: 2; Service time: 4 }
+
+Waiting clients: { ID: 1; Arrival time: 3; Service time: 5 }
+
+Waiting clients: { ID: 2; Arrival time: 3; Service time: 5 }
+
+Waiting clients: { ID: 3; Arrival time: 3; Service time: 5 }
+
+Queue 1: 
+
+Queue 2: 
+
+Queue 3: 
+
+
+Time :1
+Waiting clients: { ID: 4; Arrival time: 2; Service time: 5 }
+
+Waiting clients: { ID: 5; Arrival time: 2; Service time: 4 }
+
+Waiting clients: { ID: 1; Arrival time: 3; Service time: 5 }
+
+Waiting clients: { ID: 2; Arrival time: 3; Service time: 5 }
+
+Waiting clients: { ID: 3; Arrival time: 3; Service time: 5 }
+
+Queue 1: 
+
+Queue 2: 
+
+Queue 3: 
+
+
+Time :2
+Waiting clients: { ID: 1; Arrival time: 3; Service time: 5 }
+
+Waiting clients: { ID: 2; Arrival time: 3; Service time: 5 }
+
+Waiting clients: { ID: 3; Arrival time: 3; Service time: 5 }
+
+Queue 1: 
+ID: 4; Arrival time: 2; Service time: 5
+
+Queue 2: 
+ID: 5; Arrival time: 2; Service time: 4
+
+Queue 3: 
+
+
+Time :3
+Queue 1: 
+ID: 4; Arrival time: 2; Service time: 4
+ID: 3; Arrival time: 3; Service time: 5
+
+Queue 2: 
+ID: 5; Arrival time: 2; Service time: 3
+ID: 2; Arrival time: 3; Service time: 5
+
+Queue 3: 
+ID: 1; Arrival time: 3; Service time: 5
+
+
+Time :4
+Queue 1: 
+ID: 4; Arrival time: 2; Service time: 3
+ID: 3; Arrival time: 3; Service time: 4
+
+Queue 2: 
+ID: 5; Arrival time: 2; Service time: 2
+ID: 2; Arrival time: 3; Service time: 4
+
+Queue 3: 
+ID: 1; Arrival time: 3; Service time: 4
+
+
+Time :5
+Queue 1: 
+ID: 4; Arrival time: 2; Service time: 2
+ID: 3; Arrival time: 3; Service time: 3
+
+Queue 2: 
+ID: 5; Arrival time: 2; Service time: 1
+ID: 2; Arrival time: 3; Service time: 3
+
+Queue 3: 
+ID: 1; Arrival time: 3; Service time: 3
+
+
+Time :6
+Queue 1: 
+ID: 4; Arrival time: 2; Service time: 1
+ID: 3; Arrival time: 3; Service time: 2
+
+Queue 2: 
+ID: 2; Arrival time: 3; Service time: 2
+
+Queue 3: 
+ID: 1; Arrival time: 3; Service time: 2
+
+
+Time :7
+Queue 1: 
+ID: 3; Arrival time: 3; Service time: 1
+
+Queue 2: 
+ID: 2; Arrival time: 3; Service time: 1
+
+Queue 3: 
+ID: 1; Arrival time: 3; Service time: 1
+
+
+Time :8
+Queue 1: 
+
+Queue 2: 
+
+Queue 3: 
+
+
+Time :9
+Queue 1: 
+
+Queue 2: 
+
+Queue 3: 
+
+
+Time :10
+Queue 1: 
+
+Queue 2: 
+
+Queue 3: 
+
+
